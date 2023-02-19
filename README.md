@@ -4,6 +4,7 @@ I train 🤖 machine learning and 🧠 deep neural nets on datasets of interest.
 
 ## 
 * ### [🎬 Movie Recommendation Engine](https://github.com/abdulw352/Data-Science-Notebooks/blob/main/Movie%20Recommendation%20Engine.ipynb)
+* ### [💧 Customer Churn Modeling](https://github.com/abdulw352/Data-Science-Notebooks/blob/main/customer-churn-modeling.ipynb)
 * ### [🏪 Microbusiness Density Forecasting](https://github.com/abdulw352/Data-Science-Notebooks/blob/main/microbusiness-density-forecasting.ipynb)
 * ### [🚀 SpaceX Falcon 9 First stage landing analysis](https://github.com/abdulw352/IBM-Data-Science) --- [Plotly Dashboard](https://github.com/abdulw352/IBM-Data-Science/blob/main/spacex_dash_app.py)
 * ### [🌓 A/B Testing for Webpages and Mobile game](https://github.com/abdulw352/Data-Science-Notebooks/blob/main/A-B-Testing.ipynb)
