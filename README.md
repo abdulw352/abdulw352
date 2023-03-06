@@ -6,13 +6,14 @@ I train 🤖 machine learning and 🧠 deep neural nets on datasets of interest.
 * ### [🎬 Movie Recommendation Engine](https://github.com/abdulw352/Data-Science-Notebooks/blob/main/Movie%20Recommendation%20Engine.ipynb)
 * ### [📈 Store Sales Time Series Forecasting](https://github.com/abdulw352/Data-Science-Notebooks/blob/main/store-sales-time-series-forecasting.ipynb)
 * ### [💧 Customer Churn Modeling](https://github.com/abdulw352/Data-Science-Notebooks/blob/main/customer-churn-modeling.ipynb)
-* ### [🏪 Microbusiness Density Forecasting](https://github.com/abdulw352/Data-Science-Notebooks/blob/main/microbusiness-density-forecasting.ipynb)
+* ### [🍂 HR Analytics: Employee Attrition](https://github.com/abdulw352/Data-Science-Notebooks/blob/main/ibm-hr-analytics-employee-attrition-performance.ipynb)
 * ### [🚀 SpaceX Falcon 9 First stage landing analysis](https://github.com/abdulw352/IBM-Data-Science) --- [Plotly Dashboard](https://github.com/abdulw352/IBM-Data-Science/blob/main/spacex_dash_app.py)
 * ### [🌓 A/B Testing for Webpages and Mobile game](https://github.com/abdulw352/Data-Science-Notebooks/blob/main/A-B-Testing.ipynb)
 * ### [🔭 MAGIC GAMMAS Telescope Classificaiton](https://github.com/abdulw352/Data-Science-Notebooks/blob/main/magic-gamma-telescope-classification.ipynb)
 * ### [🎆 PySpark](https://github.com/abdulw352/Data-Science-Notebooks/blob/main/Working%20with%20Data%20in%20Spark.ipynb)
 * ### [🖼️ PyTorch GAN](https://github.com/abdulw352/Data-Science-Notebooks/blob/main/pytorch-gan.ipynb)
 * ### [🔻 Bankruptcy Prediction](https://github.com/abdulw352/Data-Science-Notebooks/blob/main/bankruptcy-data-analysis.ipynb)
+* ### [🏪 Microbusiness Density Forecasting](https://github.com/abdulw352/Data-Science-Notebooks/blob/main/microbusiness-density-forecasting.ipynb)
 * ### [🧊 Ice Cube Neutrinos](https://github.com/abdulw352/Data-Science-Notebooks/blob/main/icecube-neutrinos-in-deep-ice-analysis.ipynb)
 
 ##
