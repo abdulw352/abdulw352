@@ -4,6 +4,7 @@ I train 🤖 machine learning and 🧠 deep neural nets on datasets of interest.
 
 ## 
 * ### [🎬 Movie Recommendation Engine](https://github.com/abdulw352/Data-Science-Notebooks/blob/main/Movie%20Recommendation%20Engine.ipynb)
+* ### [☕ Starbucks Roastry Geospatial Analysis](https://www.kaggle.com/code/iabdulw/starbucks-geospatial-analysis?scriptVersionId=122011712)
 * ### [📈 Store Sales Time Series Forecasting](https://github.com/abdulw352/Data-Science-Notebooks/blob/main/store-sales-time-series-forecasting.ipynb)
 * ### [💧 Customer Churn Modeling](https://github.com/abdulw352/Data-Science-Notebooks/blob/main/customer-churn-modeling.ipynb)
 * ### [🍂 HR Analytics: Employee Attrition](https://github.com/abdulw352/Data-Science-Notebooks/blob/main/ibm-hr-analytics-employee-attrition-performance.ipynb)
