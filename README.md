@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I train 🤖 machine learning and 🧠 deep neural nets on datasets of interest. Also work on other projects 🎲🎮.
+I train 🤖 machine learning and 🧠 deep neural nets. Also work on other projects 🎲🎮.
 
 ## 
 * ### [🎬 Movie Recommendation Engine](https://github.com/abdulw352/Data-Science-Notebooks/blob/main/Movie%20Recommendation%20Engine.ipynb)
