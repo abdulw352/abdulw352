@@ -1,6 +1,5 @@
 
 ## 
-* ### [🎬 Movie Recommendation Engine](https://github.com/abdulw352/Data-Science-Notebooks/blob/main/Movie%20Recommendation%20Engine.ipynb)
 * ### [☕ Starbucks Roastry Geospatial Analysis](https://www.kaggle.com/code/iabdulw/starbucks-geospatial-analysis?scriptVersionId=122011712)
 * ### [📈 Store Sales Time Series Forecasting](https://github.com/abdulw352/Data-Science-Notebooks/blob/main/store-sales-time-series-forecasting.ipynb)
 * ### [💧 Customer Churn Modeling](https://github.com/abdulw352/Data-Science-Notebooks/blob/main/customer-churn-modeling.ipynb)
@@ -15,7 +14,6 @@
 * ### [🚦💥 US Traffic Accidents EDA](https://github.com/abdulw352/Data-Science-Notebooks/blob/main/us-traffic-accidents-eda.ipynb)
 * ### [🔻 Bankruptcy Prediction](https://github.com/abdulw352/Data-Science-Notebooks/blob/main/bankruptcy-data-analysis.ipynb)
 * ### [🏪 Microbusiness Density Forecasting](https://github.com/abdulw352/Data-Science-Notebooks/blob/main/microbusiness-density-forecasting.ipynb)
-* ### [🧊 Ice Cube Neutrinos](https://github.com/abdulw352/Data-Science-Notebooks/blob/main/icecube-neutrinos-in-deep-ice-analysis.ipynb)
 
 ##
 * ## [Certifications](https://github.com/abdulw352/Data-Science-Notebooks/tree/main/Certifications)
