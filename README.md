@@ -1,4 +1,16 @@
 
+##
+#### Tools
+##
+1. [Collaborative Adversarial Agents](https://github.com/abdulw352/AI-Agents/tree/main/Collaborative%20Adverserial%20Agents)
+2. [Customer Support Agent](https://github.com/abdulw352/AI-Agents/tree/main/Customer%20Support%20Agent)
+3. [Movie Recommendation Agent](https://github.com/abdulw352/AI-Agents/tree/main/Movie%20Recommendation%20Agent)
+4. [Personal Finance Agent](https://github.com/abdulw352/AI-Agents/tree/main/Personal%20Finance%20Agent)
+5. [Personal Fitness Agent](https://github.com/abdulw352/AI-Agents/tree/main/Personal%20Fitness%20Agent)
+6. [Risk Assessment Agent](https://github.com/abdulw352/AI-Agents/tree/main/Risk%20Assessment%20Agent)
+7. [Simple Research Agent](https://github.com/abdulw352/AI-Agents/tree/main/Simple%20Researech%20Agent)
+8. [Stock Analyst AI Agent Team](https://github.com/abdulw352/AI-Agents/tree/main/Stock%20Analyst%20AI%20Agent%20Team)
+9. [Writing Agent](#writing-agent)
 
 ##
 * ## [Certifications](https://github.com/abdulw352/Data-Science-Notebooks/tree/main/Certifications)
